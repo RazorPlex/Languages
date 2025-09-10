@@ -8,6 +8,8 @@
 
 
     "lobbysystem.items.teleproter.name": "§3§l§oNavigator",
-    "lobbysystem.items.lobbies.name": "§3§l§oLobbie §b§l§oWechsler§r"
+    "lobbysystem.items.lobbies.name": "§3§l§oLobbie §b§l§oWechsler§r",
+    "lobbysystem.viplobby.noperms": "§cKeine Berechtigung",
+    "lobbysystem.viplobby.nojoin": "§cDu bist nicht berechtigt diese Lobby zu betreten!"
   }
 }
