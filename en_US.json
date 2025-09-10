@@ -3,11 +3,13 @@
   "localeCode": "en_US",
   "PREFIX": "§3§lRazor§b§lPlex §3§l● §r§7",
   "values": {
-    "langapi.updated": "{PREFIX}§7Language is now {NEW}",
+    "langapi.updated": "Language is now {NEW}",
     "langapi.ui.content": "§7Change your Langauge",
 
 
     "lobbysystem.items.teleproter.name": "§3§l§oCompass",
-    "lobbysystem.items.lobbies.name": "§3§l§oLobby §b§l§oSwitcher§r"
+    "lobbysystem.items.lobbies.name": "§3§l§oLobby §b§l§oSwitcher§r",
+    "lobbysystem.viplobby.noperms": "§c§lNo Permission§r",
+    "lobbysystem.viplobby.nojoin": "§cYou are not authorized to enter this lobby!"
   }
 }
