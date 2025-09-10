@@ -4,6 +4,9 @@
   "PREFIX": "§3§lRazor§b§lPlex §3§l● §r§7",
   "values": {
     "langapi.updated": "Sprache ist nun {NEW}",
-    "langapi.ui.content": "§7Ändere deine Sprache um"
+    "langapi.ui.content": "§7Ändere deine Sprache um",
+
+
+    "lobbysystem.items.lobbies.name": "§3§l§oLobbie §b§l§oWechsler§r"
   }
 }
