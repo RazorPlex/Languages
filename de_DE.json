@@ -1,0 +1,8 @@
+{
+  "name": "Deutsch",
+  "localeCode": "de_DE",
+  "PREFIX": "§3§lRazor§b§lPlex §3§l● §r§7",
+  "values": {
+    "langapi.updated": "Sprache ist nun {NEW}"
+  }
+}
