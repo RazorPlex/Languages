@@ -3,7 +3,7 @@
   "localeCode": "en_US",
   "PREFIX": "§3§lRazor§b§lPlex §3§l● §r§7",
   "values": {
-    "langapi.updated": "Language is now {NEW}",
+    "langapi.updated": "{PREFIX} §7Your new Language is now §3§o{NEW}§r§7!",
     "langapi.ui.content": "§7Change your Langauge",
 
 
